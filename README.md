@@ -1,3 +1,3 @@
 # test-pages
 
-<iframe src="problems.pdf" width="100%" height="700"/>
+<object data="problems.pdf" type="application/pdf" width="100%" height="700" />
