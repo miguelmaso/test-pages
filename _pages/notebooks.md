@@ -1,7 +1,7 @@
 ---
 permalink: /notebooks
 layout: page
-title: Notebooks archive
+title: Notebooks
 ---
 
 Jupyter notebooks
